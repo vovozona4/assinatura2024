@@ -1,0 +1,26 @@
+header {
+      background-image:linear-gradient(to top, #f1c549, #c7b40d);
+      margin:90;
+      padding:90;
+      display:blok;
+      justify-content: space-aroud;
+      padding: 54px;
+      color:#f1c549
+}
+
+-titulo{
+    font-size: 80px;
+    text- align: center;
+    color; #f1c549
+font-size italic;
+}
+
+.escola {
+    margin-left:300px;
+    margin-top:300px;
+    margin-right:300px;
+    height:550px;
+    font-size:70px;
+    text-align:center;
+    font-style: italic;
+    background-image: linear-gradient( top #dbc712, #);
